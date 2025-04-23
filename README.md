@@ -1,2 +1,2 @@
 # CursoJs
-Some I've done in online classes
+Some work I've done in online classes
